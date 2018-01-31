@@ -1,4 +1,5 @@
 .git
-/venv
+venv/
 *.iml
 .idea
+src/.ipynb_checkpoints
